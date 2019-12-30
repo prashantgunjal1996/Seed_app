@@ -1,0 +1,15 @@
+
+
+.login-tab{
+
+    line-height: 30px;
+    background-color: bisque;
+    padding: 10px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+.login-tab .err{
+
+    color: red;
+}
